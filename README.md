@@ -41,7 +41,8 @@ The HC-SR04 Ultrasonic Range Sensor Features:
         Centre screw hole distance: 40mm x 15mm
         Screw hole diameter: 1mm (M1)
         Transmitter diameter: 8mm
-##Arduino code link  https://github.com/rm10078/Ultrasonic_sensor_with_arduino_serial_monitor/blob/main/ultrasonic_sensor_with_serial_monitor/ultrasonic_sensor_with_serial_monitor.ino
+## Arduino code link  
+https://github.com/rm10078/Ultrasonic_sensor_with_arduino_serial_monitor/blob/main/ultrasonic_sensor_with_serial_monitor/ultrasonic_sensor_with_serial_monitor.ino
 
   
 ## Screenshots
