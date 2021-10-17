@@ -3,8 +3,8 @@ My github profile link:-https://github.com/rm10078
 You can use this code for your any project.
 */
 
-const int echo = 10;  //arduino 9 number pin connected with echo pin
-const int trig =9;   //arduino 10 number pin connected with trig pin
+const int echo = 10;  //arduino 10 number pin connected with echo pin
+const int trig =9;   //arduino 9 number pin connected with trig pin
 
 float dur=0;    // for store data
 float dis=0;
